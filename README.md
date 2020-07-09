@@ -1,5 +1,4 @@
 - 🔭 I’m currently working on [cdp4j](https://github.com/webfolderio/cdp4j)
-- 🌱 I’m currently learning [libuv](https://github.com/libuv/libuv)
 - 👯 I’m looking to collaborate on web automation
-- 💬 Ask me about [cdp4j](https://github.com/webfolderio/cdp4j)
+- 💬 Ask me anything about [cdp4j](https://github.com/webfolderio/cdp4j)
 - 📫 How to reach me: support@webfolder.io
